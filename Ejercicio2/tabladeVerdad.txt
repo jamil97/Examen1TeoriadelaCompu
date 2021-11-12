@@ -1,0 +1,6 @@
+		Piedra	Papel	Tijera	Spock	Lagartija
+Piedra		F	F	V	F	V
+Papel		V	F	F	V	F
+Tijera		F	V	F	F	V
+Spock		V	F	V	F	F
+Lagartija	F	V	F	V	F
